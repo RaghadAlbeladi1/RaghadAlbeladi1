@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Raghad Albeladi</h1>
 
-<!--
-**RaghadAlbeladi1/RaghadAlbeladi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">
+A passionate <b>Health Informatics Specialist</b> who bridges healthcare and technology.  
+Currently expanding my expertise in <b>Software Engineering</b> through:
+</h3>
 
-Here are some ideas to get you started:
+<ul>
+  <li> <b>Tuwaiq Academy</b> – in partnership with <b>Holberton School (Global)</b></li>
+  <li> <b>Saudi Digital Academy</b> – in partnership with <b>General Assembly (Global)</b></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">
+I’m passionate about creating digital health solutions that improve patient experience and bring innovation to healthcare. 
+</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raghad-albeladi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghad linkedin" height="30" width="40" />
+</a>
+<a href="mailto:raghad.z.albeladi@outlook.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="raghad email" height="30" width="40" />
+</a>
+<a href="https://github.com/RaghadAlbeladi1" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="raghad github" height="30" width="40" />
+</a>
+</p>
+
