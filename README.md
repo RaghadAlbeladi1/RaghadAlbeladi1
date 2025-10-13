@@ -22,8 +22,6 @@ I’m passionate about creating digital health solutions that improve patient ex
 <a href="https://linkedin.com/in/raghad-albeladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-mbithi-6626b617a" height="30" width="40" /></a>
 <a href="mailto:raghad.z.albeladi@outlook.com" target="blank">
   <img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="raghad email" height="30" width="40" />
-<a href="https://github.com/RaghadAlbeladi1" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="raghad github" height="30" width="40" />
 </a>
 </a>
 
