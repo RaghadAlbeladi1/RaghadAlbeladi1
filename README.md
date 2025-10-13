@@ -7,7 +7,7 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
 
 <ul>
   <li> <b>Tuwaiq Academy</b> – in partnership with <b>Holberton School (Global)</b></li>
-  <li> <b>Saudi Digital Academy</b> – in partnership with <b>General Assembly (Global)</b></li>
+  <li> <b>Saudi Digital Academy(SDA)</b> – in partnership with <b>General Assembly (Global)</b></li>
 </ul>
 
 <h3 align="left">
