@@ -52,31 +52,35 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
 </p>
 
 ---
-
-<<!-- Internship Experience Section -->
+<!-- Internship & Training Experience Section -->
 <h3 align="center">🏥 Internship & Training Experience</h3>
 
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8e497e96-48e7-417c-9009-978e1fab85b0.png" alt="ATS Company" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ab20fd5b-cea8-4b63-9dc9-acaa705bb6a6.png" alt="National Guard Hospital" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://github.com/user-attachments/assets/fahadhospitallogo.png" alt="King Fahd Hospital Hofuf" height="70"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img src="https://github.com/user-attachments/assets/تجمع_الأحساء_لوقو-removebg-preview.png" alt="Al Ahsa Health Cluster" height="70"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/user-attachments/assets/d2a662e6-81bb-4073-8adf-b4933da5fe33" alt="National Guard Hospital" height="80"/><br/>
+      <sub style="color:gray; font-size:14px;"><b>National Guard Health Affairs</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/user-attachments/assets/403c3c7b-111d-426e-b716-e3415e5a0ff4" alt="King Fahd Hospital Hofuf" height="95"/><br/>
+      <sub style="color:gray; font-size:14px;"><b>King Fahd Hospital – Hofuf</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/user-attachments/assets/b1564878-06d9-4b28-8c0f-022269a7591d" alt="ATS Company" height="75"/><br/>
+      <sub style="color:gray; font-size:14px;"><b>ATS Company</b></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/user-attachments/assets/f0312a36-eb7e-472f-83de-611c31bd9036" alt="Al Ahsa Health Cluster" height="95"/><br/>
+      <sub style="color:gray; font-size:14px;"><b>Al Ahsa Health Cluster</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>Worked across key healthcare facilities — supporting system activation, digital transformation, and workflow optimization projects.</i>
+  <i>Worked across leading healthcare institutions — supporting system activation, digital transformation, and workflow optimization projects.</i>
 </p>
+
+
 
 ----
 
