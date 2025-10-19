@@ -20,15 +20,19 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
 <!-- Academy Logos -->
 <p align="center">
   <a href="https://generalassemb.ly/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0284af1b-bf15-408c-b724-98868f976667" alt="General Assembly" height="65"/>
+    <img src="https://github.com/user-attachments/assets/0284af1b-bf15-408c-b724-98868f976667" alt="General Assembly" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.holbertonschool.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" width="110" height="55"/>
+    <img src="https://github.com/user-attachments/assets/5f8d33ce-fed8-438a-935c-a9916afef26e" alt="Holberton logo" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sda.edu.sa/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/5edb2838-4fe6-4b18-b80d-706b31f56a64" alt="SDA logo" width="160" height="55"/>
+    <img src="https://github.com/user-attachments/assets/5edb2838-4fe6-4b18-b80d-706b31f56a64" alt="SDA logo" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tuwaiq.edu.sa/" target="_blank">
+    <img src="https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png" alt="Tuwaiq Academy" height="55"/>
   </a>
 </p>
 
