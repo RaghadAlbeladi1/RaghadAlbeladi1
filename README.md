@@ -91,17 +91,6 @@ Internship & Training Experience:
 
 
 ----
-
-##  About Me
--  Graduate in **Health Information Management and Technology (HIMT)**  
--  Trainee in **Software Engineering Bootcamp (SDA)**  
--  Experience in **hospital systems** (HIS, RIS, PACS, OASIS)  
--  Skilled in **Power BI**, **Python**, **Django**, **React**, and **SQL**  
--  Interested in **AI in healthcare** and **data-driven decision making**  
--  Passionate about improving **patient experience through digital solutions**
-
----
-
 ##  Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,powerbi,vscode,github&theme=light" />
