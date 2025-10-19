@@ -102,8 +102,6 @@ Internship & Training Experience:
 
 ---
 
----
-
 ##  Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,powerbi,vscode,github&theme=light" />
@@ -128,6 +126,6 @@ Internship & Training Experience:
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://caps
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30,60&height=100&section=footer&text=Thanks%20for%20Visiting%20💖&fontSize=25&fontColor=ffffff" />
+</div>
