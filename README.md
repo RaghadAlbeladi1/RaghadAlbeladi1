@@ -17,7 +17,22 @@ A passionate <b>Health Informatics Specialist</b> bridging healthcare and techno
 Currently expanding my expertise in <b>Software Engineering</b> through:
 </p>
 
-<!-- Academy Logos -->
+<h3 align="left">
+Currently expanding my expertise in <b>Software Engineering</b> through:
+</h3>
+
+<ul>
+  <li>
+    <b>Tuwaiq Academy</b> – in partnership with
+    <a href="https://www.holbertonschool.com/" target="_blank"><b>Holberton School</b></a>
+  </li> 
+  <li>
+    <b>Saudi Digital Academy (SDA)</b> – in partnership with
+    <a href="https://generalassemb.ly/" target="_blank"><b>General Assembly</b></a>
+  </li>
+</ul>
+
+<!-- Logos Section -->
 <p align="center">
   <a href="https://generalassemb.ly/" target="_blank">
     <img src="https://github.com/user-attachments/assets/0284af1b-bf15-408c-b724-98868f976667" alt="General Assembly" height="55"/>
@@ -36,34 +51,27 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
   </a>
 </p>
 
----
-
-## 💡 About Me
-- 🎓 Graduate in **Health Information Management and Technology (HIMT)**  
-- 💻 Trainee in **Software Engineering Bootcamp (SDA)**  
-- 🏥 Experience in **hospital systems** (HIS, RIS, PACS, OASIS)  
-- 📊 Skilled in **Power BI**, **Python**, **Django**, **React**, and **SQL**  
-- 🌱 Interested in **AI in healthcare** and **data-driven decision making**  
-- 💬 Passionate about improving **patient experience through digital solutions**
 
 ---
 
-## 🧠 Tech & Tools
+##  About Me
+-  Graduate in **Health Information Management and Technology (HIMT)**  
+- Trainee in **Software Engineering Bootcamp (SDA)**  
+- Experience in **hospital systems** (HIS, RIS, PACS, OASIS)  
+- Skilled in **Power BI**, **Python**, **Django**, **React**, and **SQL**  
+-  Interested in **AI in healthcare** and **data-driven decision making**  
+-  Passionate about improving **patient experience through digital solutions**
+
+---
+
+## Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,powerbi,vscode,github&theme=light" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghadalbeladi&show_icons=true&theme=radical&title_color=8A70D6&icon_color=FF6B6B&text_color=ffffff&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghadalbeladi&layout=compact&theme=radical&title_color=8A70D6&text_color=ffffff&bg_color=0d1117" height="160"/>
-</div>
-
----
-
-## 🤝 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/raghad-albeladi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
