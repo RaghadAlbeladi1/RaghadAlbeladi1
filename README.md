@@ -61,8 +61,8 @@ Internship & Training Experience:
   <li>
     <b>King Fahd Hospital – Hofuf</b>  
     closely collaborated with  
-    <a href="#" target="_blank"><b>Al Ahsa Health Cluster</b></a> & 
-    <a href="#" target="_blank"><b>ATS Company</b></a>
+    <b>Al Ahsa Health Cluster</b></a> & 
+    <b>ATS Company</b></a>
   </li> 
   <li>
     <b>National Guard Hospital</b> – AlAhsa
