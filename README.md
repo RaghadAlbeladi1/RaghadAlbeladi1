@@ -51,27 +51,73 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
   </a>
 </p>
 
+---
+
+<<!-- Internship Experience Section -->
+<h3 align="center">🏥 Internship & Training Experience</h3>
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8e497e96-48e7-417c-9009-978e1fab85b0.png" alt="ATS Company" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ab20fd5b-cea8-4b63-9dc9-acaa705bb6a6.png" alt="National Guard Hospital" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fahadhospitallogo.png" alt="King Fahd Hospital Hofuf" height="70"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://github.com/user-attachments/assets/تجمع_الأحساء_لوقو-removebg-preview.png" alt="Al Ahsa Health Cluster" height="70"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Worked across key healthcare facilities — supporting system activation, digital transformation, and workflow optimization projects.</i>
+</p>
+
+----
+
+## 💡 About Me
+- 🎓 Graduate in **Health Information Management and Technology (HIMT)**  
+- 💻 Trainee in **Software Engineering Bootcamp (SDA)**  
+- 🏥 Experience in **hospital systems** (HIS, RIS, PACS, OASIS)  
+- 📊 Skilled in **Power BI**, **Python**, **Django**, **React**, and **SQL**  
+- 🌱 Interested in **AI in healthcare** and **data-driven decision making**  
+- 💬 Passionate about improving **patient experience through digital solutions**
 
 ---
 
-##  About Me
--  Graduate in **Health Information Management and Technology (HIMT)**  
-- Trainee in **Software Engineering Bootcamp (SDA)**  
-- Experience in **hospital systems** (HIS, RIS, PACS, OASIS)  
-- Skilled in **Power BI**, **Python**, **Django**, **React**, and **SQL**  
--  Interested in **AI in healthcare** and **data-driven decision making**  
--  Passionate about improving **patient experience through digital solutions**
+## 🏥 Internship Experience
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/King_Fahd_Hospital_Hofuf_logo.png" alt="King Fahd Hospital Hofuf" height="70"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/de/Saudi_Arabian_National_Guard_logo.png" alt="National Guard Hospital" height="70"/>
+</p>
+
+- 🏥 **King Fahd Hospital – Hofuf**  
+  - Worked in the **Information Technology Department (OASIS System)**  
+  - Supported **system transformation**, **staff training**, and **issue troubleshooting**  
+  - Contributed to enhancing workflow and system usability  
+
+- 🏥 **National Guard Hospital**  
+  - Assisted in **activating medications** and linking them to the pharmacy system  
+  - Helped improve **workflow efficiency** and **data accuracy**  
+  - Participated in the **Priority Card project for the elderly**, designing an initial concept to transform it into a **mobile application**  
 
 ---
 
-## Tech & Tools
+## 🧠 Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,powerbi,vscode,github&theme=light" />
 </p>
 
 ---
 
-##  Connect with Me
+## 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/raghad-albeladi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -90,5 +136,4 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30,60&height=100&section=footer&text=Thanks%20for%20Visiting%20💖&fontSize=25&fontColor=fff" />
-</div>
+  <img src="https://caps
