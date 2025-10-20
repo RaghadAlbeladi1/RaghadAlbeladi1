@@ -89,13 +89,6 @@ Internship & Training Experience:
 
 </p>
 
-
-----
-##  Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,sqlite,git,powerbi,vscode,github&theme=light" />
-</p>
-
 ---
 
 ##  Connect with Me
