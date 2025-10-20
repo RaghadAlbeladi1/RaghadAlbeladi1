@@ -51,8 +51,6 @@ Currently expanding my expertise in <b>Software Engineering</b> through:
   </a>
 </p>
 
----
-
 <h3 align="left">
 Internship & Training Experience:
 </h3>
@@ -88,8 +86,6 @@ Internship & Training Experience:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
----
 
 ##  Connect with Me
 <p align="center">
