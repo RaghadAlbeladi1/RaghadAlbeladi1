@@ -12,7 +12,7 @@
 
 <h3 align="center">👋 Hi there, I'm <b>Raghad Albeladi</b></h3>
 
-<p align="center">
+<p align="left">
 A passionate <b>Health Informatics Specialist</b> bridging healthcare and technology.  
 Currently expanding my expertise in <b>Software Engineering</b> through:
 </p>
