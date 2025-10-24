@@ -9,8 +9,18 @@
 </p>
 
 ---
+<div align="right" style="margin-bottom: 10px;">
 
-<h3 align="center">👋 Hi there, I'm <b>Raghad Albeladi</b></h3>
+  [![LinkedIn Badge](https://img.shields.io/badge/-Raghad%20Albeladi-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghad-albeladi)](https://www.linkedin.com/in/raghad-albeladi)
+  [![Outlook Badge](https://img.shields.io/badge/-raghad.z.albeladi@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:raghad.z.albeladi@outlook.com)](mailto:raghad.z.albeladi@outlook.com)
+  [![GitHub Badge](https://img.shields.io/badge/-RaghadAlbeladi1-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/RaghadAlbeladi1)](https://github.com/RaghadAlbeladi1)
+  [![Discord Badge](https://img.shields.io/badge/-raghadalbeladi-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/raghadalbeladi)](https://discord.com/users/raghadalbeladi)
+
+</div>
+
+<h3 align="center">
+  👋 Hi there, I'm <b>Raghad Albeladi</b>
+</h3>
 
 <p align="left">
 A passionate <b>Health Informatics Specialist</b> bridging healthcare and technology.  
@@ -85,23 +95,6 @@ Internship & Training Experience:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-##  Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/raghad-albeladi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Raghad_Albeladi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:raghad.z.albeladi@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/raghadalbeladi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30,60&height=100&section=footer&text=Thanks%20for%20Visiting%20💖&fontSize=25&fontColor=ffffff" />
