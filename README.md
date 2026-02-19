@@ -3,6 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30,60&height=270&section=header&text=Raghad%20Albeladi&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Health%20Informatics%20Specialist%20|%20Software%20Engineer&descAlignY=58" />
 </div>
 
+# Welcome to my GitHub! 👋
+
+## About Me
+
+Hi! I'm **Raghad Albeladi**, a Health Informatics graduate with a passion for bridging the gap between healthcare systems and modern technology. I earned my **Bachelor's in Health Informatics** from the University of Hafr Albatin (GPA: 3.65/4), and since then I've been on a mission to combine my clinical knowledge with software engineering skills.
+
+After years of hands-on hospital experience — from leading HIS system transformations at [King Fahad Hospital](https://www.moh.gov.sa/) to digitizing patient workflows at [Ministry of National Guard Health Affairs (MNGHA)](https://ngha.med.sa/) — I realized how powerful technology can be in transforming healthcare. That drive pushed me to dive deep into software engineering through [Holberton School & Tuwaiq Academy](https://www.holbertonschool.com/) and a full-stack immersive bootcamp at [General Assembly & Saudi Digital Academy](https://generalassemb.ly/).
+
+I'm currently completing a **36-week Software Engineering program** at Holberton School, sharpening my skills in full-stack development, algorithms, and AI — with a strong focus on **Health IT solutions**.
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8A70D6&center=true&vCenter=true&width=700&lines=Health+Informatics+Specialist+🏥;Software+Engineering+💻;Passionate+about+Digital+Health+Innovation+✨;Building+Bridges+between+Tech+and+Healthcare+❤️" />
