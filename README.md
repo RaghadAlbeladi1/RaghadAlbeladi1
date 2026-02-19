@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8A70D6&center=true&vCenter=true&width=700&lines=Health+Informatics+Graduate+🏥;Software+Engineering+Trainee+💻;Passionate+about+Digital+Health+Innovation+✨;Building+Bridges+between+Tech+and+Healthcare+❤️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8A70D6&center=true&vCenter=true&width=700&lines=Health+Informatics+Specialist+🏥;Software+Engineering+💻;Passionate+about+Digital+Health+Innovation+✨;Building+Bridges+between+Tech+and+Healthcare+❤️" />
 </p>
 
 ---
