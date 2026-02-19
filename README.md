@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30,60&height=270&section=header&text=Raghad%20Albeladi&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Health%20Informatics%20Specialist%20|%20Software%20Engineer%20Trainee&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30,60&height=270&section=header&text=Raghad%20Albeladi&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Health%20Informatics%20Specialist%20|%20Software%20Engineer&descAlignY=58" />
 </div>
 
 <!-- Typing Animation -->
