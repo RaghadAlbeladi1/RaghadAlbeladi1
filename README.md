@@ -27,13 +27,7 @@ I'm currently completing a **36-week Software Engineering program** at Holberton
 
 </div>
 
-<h3 align="center">
-  👋 Hi there, I'm <b>Raghad Albeladi</b>
-</h3>
 
-<p align="left">
-A passionate <b>Health Informatics Specialist</b> bridging healthcare and technology.  
-</p>
 
 <h3 align="left">
  expertise in <b>Software Engineering</b> through:
