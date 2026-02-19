@@ -27,7 +27,7 @@ A passionate <b>Health Informatics Specialist</b> bridging healthcare and techno
 </p>
 
 <h3 align="left">
-Currently expanding my expertise in <b>Software Engineering</b> through:
+ expertise in <b>Software Engineering</b> through:
 </h3>
 
 <ul>
