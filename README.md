@@ -9,7 +9,7 @@
 
 Hi! I'm **Raghad Albeladi**, a Health Informatics graduate with a passion for bridging the gap between healthcare systems and modern technology. I earned my **Bachelor's in Health Informatics**  (GPA: 3.65/4), and since then I've been on a mission to combine my clinical knowledge with Technology skills.
 
-After years of hands-on hospital experience — from leading HIS system transformations at [King Fahad Hospital](https://www.moh.gov.sa/) to digitizing patient workflows at [Ministry of National Guard Health Affairs (MNGHA)](https://ngha.med.sa/) — I realized how powerful technology can be in transforming healthcare. That drive pushed me to dive deep into software engineering through [Holberton School & Tuwaiq Academy](https://www.holbertonschool.com/) and a full-stack immersive bootcamp at [General Assembly & Saudi Digital Academy](https://generalassemb.ly/).
+After years of hands-on hospital experience — from leading HIS system transformations at [King Fahad Hospital](https://www.moh.gov.sa/) and digitizing patient workflows at[Ministry of National Guard Health Affairs (MNGHA)](https://ngha.med.sa/) — I realized how powerful technology can be in transforming healthcare. That drive pushed me to dive deep into software engineering through [Holberton School & Tuwaiq Academy](https://www.holbertonschool.com/) and a full-stack immersive bootcamp at [General Assembly & Saudi Digital Academy](https://generalassemb.ly/).
 
 I'm currently completing a **36-week Software Engineering program** at Holberton School, sharpening my skills in full-stack development, algorithms, and AI — with a strong focus on **Health IT solutions**.
 <!-- Typing Animation -->
